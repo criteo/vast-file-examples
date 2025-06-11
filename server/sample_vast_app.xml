@@ -27,10 +27,10 @@
                             <ClosedCaptionFiles>
                             <ClosedCaptionFile type="text/vtt" language="en"><![CDATA[https://raw.githubusercontent.com/criteo/interview-ios/refs/heads/main/server/criteo.vtt]]></ClosedCaptionFile>
                             </ClosedCaptionFiles>
-                            <VideoClicks>
-                                <ClickTracking><![CDATA[https://httpdump.app/dumps/59fe4255-b0c3-45ba-8b32-dbf71c8e0226/tracking/click]]></ClickTracking>
-                            </VideoClicks>
                         </MediaFiles>
+                        <VideoClicks>
+                            <ClickTracking><![CDATA[https://httpdump.app/dumps/59fe4255-b0c3-45ba-8b32-dbf71c8e0226/tracking/click]]></ClickTracking>
+                        </VideoClicks>
                     </Linear>
                 </Creative>
             </Creatives>
