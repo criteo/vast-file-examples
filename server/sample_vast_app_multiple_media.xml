@@ -23,10 +23,10 @@
                             <Tracking event="resume"><![CDATA[https://httpdump.app/dumps/59fe4255-b0c3-45ba-8b32-dbf71c8e0226/tracking/resume]]></Tracking>
                         </TrackingEvents>
                         <MediaFiles>
-                            <MediaFile id="web" delivery="progressive" width="640" height="360" type="video/mp4" scalable="true" maintainAspectRatio="true"><![CDATA[https://raw.githubusercontent.com/criteo/interview-ios/refs/heads/main/server/criteo.mp4]]></MediaFile>
-                            <MediaFile id="mobile" delivery="progressive" width="320" height="320" type="video/mp4" scalable="true" maintainAspectRatio="true"><![CDATA[https://raw.githubusercontent.com/criteo/interview-ios/refs/heads/main/server/criteo.mp4]]></MediaFile>
+                            <MediaFile id="web" delivery="progressive" width="640" height="360" type="video/mp4" scalable="true" maintainAspectRatio="true"><![CDATA[https://raw.githubusercontent.com/criteo/vast-file-examples/refs/heads/main/server/criteo.mp4]]></MediaFile>
+                            <MediaFile id="mobile" delivery="progressive" width="320" height="320" type="video/mp4" scalable="true" maintainAspectRatio="true"><![CDATA[https://raw.githubusercontent.com/criteo/vast-file-examples/refs/heads/main/server/criteo.mp4]]></MediaFile>
                             <ClosedCaptionFiles>
-                                <ClosedCaptionFile type="text/vtt" language="en"><![CDATA[https://raw.githubusercontent.com/criteo/interview-ios/refs/heads/main/server/criteo.vtt]]></ClosedCaptionFile>
+                                <ClosedCaptionFile type="text/vtt" language="en"><![CDATA[https://raw.githubusercontent.com/criteo/vast-file-examples/refs/heads/main/server/criteo.vtt]]></ClosedCaptionFile>
                             </ClosedCaptionFiles>
                         </MediaFiles>
                         <VideoClicks>
